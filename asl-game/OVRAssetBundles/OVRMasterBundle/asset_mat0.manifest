@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2399671509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 730d30f184f7f28c23018a081128da91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
+- Assets/_GamesPlusJames Menu Assets/Particle/particle2.mat
+- Assets/_GamesPlusJames Menu Assets/Particle/particle1.mat
+- Assets/ExampleAssets/Materials/Controller.mat
+- Assets/ExampleAssets/Materials/Skybox Light.mat
+- Assets/ExampleAssets/Materials/Grid.mat
+Dependencies:
+- C:/Users/aleja/Apps/GhostHands/asl-game/OVRAssetBundles/OVRMasterBundle/asset_png0

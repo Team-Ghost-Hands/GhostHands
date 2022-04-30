@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1202806681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08f2b58f4cc624ac2b1b08eeb0a41c1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5b061c224d53bf9fde314821aeb9f11f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/_GamesPlusJames Menu Assets/Font/BebasNeue-Regular SDF.asset
+Dependencies:
+- C:/Users/aleja/Apps/GhostHands/asl-game/OVRAssetBundles/OVRMasterBundle/asset_otf0
+- C:/Users/aleja/Apps/GhostHands/asl-game/OVRAssetBundles/OVRMasterBundle/asset_shader0

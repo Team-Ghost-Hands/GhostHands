@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 255444740
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: asset_resources
+      Dependencies:
+        Dependency_0: asset_shader0
+        Dependency_1: asset_ttf0
+    Info_1:
+      Name: scene_main menu
+      Dependencies:
+        Dependency_0: asset_prefab0
+        Dependency_1: asset_asset0
+    Info_2:
+      Name: scene_learningmodescene
+      Dependencies:
+        Dependency_0: asset_prefab0
+        Dependency_1: asset_mat0
+        Dependency_2: asset_lighting0
+        Dependency_3: asset_ttf0
+    Info_3:
+      Name: asset_prefab0
+      Dependencies:
+        Dependency_0: asset_mat0
+        Dependency_1: asset_asset0
+        Dependency_2: asset_fbx0
+    Info_4:
+      Name: asset_shader0
+      Dependencies: {}
+    Info_5:
+      Name: asset_mat0
+      Dependencies:
+        Dependency_0: asset_png0
+    Info_6:
+      Name: asset_asset0
+      Dependencies:
+        Dependency_0: asset_shader0
+        Dependency_1: asset_otf0
+    Info_7:
+      Name: asset_psd0
+      Dependencies: {}
+    Info_8:
+      Name: asset_png0
+      Dependencies: {}
+    Info_9:
+      Name: asset_otf0
+      Dependencies: {}
+    Info_10:
+      Name: asset_lighting0
+      Dependencies: {}
+    Info_11:
+      Name: asset_fbx0
+      Dependencies: {}
+    Info_12:
+      Name: asset_ttf0
+      Dependencies: {}

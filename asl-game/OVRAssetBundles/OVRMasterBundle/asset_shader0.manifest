@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4123924496
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bf70571c8e4061edd277cb9f406ad28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+Dependencies: []

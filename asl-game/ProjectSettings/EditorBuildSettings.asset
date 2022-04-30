@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Main Menu.unity
     guid: 749faaf0e5194a3409e8a7bfc3a43196
   - enabled: 1
@@ -16,5 +16,9 @@ EditorBuildSettings:
       type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba,
       type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a2c0d5a92d8c29a4db35597e4d514b2c,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 39257a75e8dc6e04889ae3f9053e17d9,
       type: 2}

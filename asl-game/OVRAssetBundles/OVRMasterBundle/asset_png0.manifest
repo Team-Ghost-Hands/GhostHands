@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3755898830
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6dece1271877af091d9a8a91dfc69b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
+- Assets/ExampleAssets/Textures/Grid_Light_512x512.png
+- Assets/_GamesPlusJames Menu Assets/Particle/Particle_Circle.png
+Dependencies: []
