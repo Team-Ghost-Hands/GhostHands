@@ -65,6 +65,7 @@ Shader "Custom/ColumnGlow"
 			v2f vert (appdata v)
 			{
 				v2f o;
+				UNITY_INITIALIZE_OUTPUT(v2f,o)
 				o.vertex = UnityObjectToClipPos(v.vertex);
 				o.normal = normalize(mul(UNITY_MATRIX_IT_MV,v.normal).xyz);
 				o.origPosition = v.vertex;
