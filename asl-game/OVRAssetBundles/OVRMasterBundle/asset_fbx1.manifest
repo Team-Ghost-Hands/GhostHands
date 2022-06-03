@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 3841971046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be941f6868daf875dbf4575e2d638484
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f11f0752ff5b1245dcd6c7dbce7078a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Lowpoly Style/Shared FBX Meshes/Buildings and  Structures/PierTile.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/SaguaroCactus2.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Buildings and  Structures/MarketStand.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/AgaveLow.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/SmallTree1_LOD.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/FenceAsia1.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Terrain/Temple_Cliff_Rocks.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/HangingFireBowl.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Terrain/TerrainPatchBrown.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/Palmtree1_low.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/Bench1.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/FishGrillStickRed.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/FlowerRed.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Buildings and  Structures/HouseTropical1.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/Candles.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/TorchBig.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/ReedBig.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/Coconut.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/Tent1.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/Signpost1.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/Palmtree1.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/Campfire.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/FishGrillStickYellow.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/Bush2.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/ReedBigTropical.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/Barrel.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/Boat1.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/Wagon.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/SmallPlant3_LOD.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/Palm3_leaning.fbx
+Dependencies: []

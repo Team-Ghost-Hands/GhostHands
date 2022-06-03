@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3920122106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c299e40fc66323dfd170af9a9574865
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f64856a3d606b613608cbf22df470c60
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/AsiaMushrooms.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/FishGrillStickSilver.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/DriedFishLeaf.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/LanternPole.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/StonePath.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/FlowerBlue.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Buildings and  Structures/PierPole.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Plants/Palm3_straight.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/DriedFish.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Items and Decoration/OldStoneWall.fbx
+- Assets/Lowpoly Style/Shared FBX Meshes/Buildings and  Structures/TropicalBuildingOpen.fbx
+Dependencies: []

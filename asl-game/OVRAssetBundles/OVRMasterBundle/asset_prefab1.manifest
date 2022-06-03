@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 4248170310
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c06f7584c84a46e8f2acb142f66a8bc6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a48777a5c1b51a5710cde824347acf34
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5fc861774284aba438c69fdfc8177804, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/TerrainPatchBrown.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/Rock.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/FishGrillStickSilver.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/Boat1.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/DriedFishLeaf.prefab
+- Assets/Lowpoly Style/Desert/Prefabs/CookingFireplace.prefab
+- Assets/Lowpoly Style/Alpine Woodland/Prefabs/Reed.prefab
+- Assets/Lowpoly Style/Asia/Prefabs/Fence1.prefab
+- Assets/Lowpoly Style/Asia/Prefabs/Plants/MushroomsYellow.prefab
+- Assets/Lowpoly Style/Alpine Woodland/Prefabs/Wagon.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/FishingRod.prefab
+- Assets/Lowpoly Style/Alpine Woodland/Prefabs/WoodenTable.prefab
+- Assets/Lowpoly Style/Desert/Prefabs/JoshuaTree2.prefab
+- Assets/Lowpoly Style/ForestPack/Prefabs/Bush.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/Signpost2.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/Paddle.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/FlowerBlue.prefab
+- Assets/Lowpoly Style/Asia/Prefabs/FenceGate.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/Palm3_leaning.prefab
+- Assets/Lowpoly Style/Alpine Woodland/Prefabs/Bench1.prefab
+- Assets/Lowpoly Style/Alpine Woodland/Prefabs/OldStoneWall.prefab
+- Assets/Lowpoly Style/Desert/Prefabs/CookingPot.prefab
+- Assets/Lowpoly Style/Asia/Prefabs/Items/Barrel.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/AgaveLow.prefab
+- Assets/Lowpoly Style/Desert/Prefabs/TorchBig.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/TerrainPatchGreen.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/FishGrillStickYellow.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/RockGrey1.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/FlowerRed.prefab
+- Assets/Lowpoly Style/Alpine Woodland/Prefabs/ReedBig.prefab
+Dependencies:
+- D:/Git/CapstoneProject/GhostHands/asl-game/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/Git/CapstoneProject/GhostHands/asl-game/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- D:/Git/CapstoneProject/GhostHands/asl-game/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- D:/Git/CapstoneProject/GhostHands/asl-game/OVRAssetBundles/OVRMasterBundle/asset_mat0

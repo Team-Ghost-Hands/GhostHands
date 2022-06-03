@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 393617532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fec40c6ba2dfca77b3f9b38500d4c8f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51dc92f30fee8b3bb3439b2b9de0150e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0950df82e7936c84983497630bde5b54, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f07515ada089df47868559a20dd6783, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df8e1d778abf442e4bec449c360e9e1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b71d1996d67004241a3b69960856ffcb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/Coconut.prefab
+- Assets/Oculus/VR/Prefabs/OVRPlayerController.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/Palm3_straight.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/FlowerWhite.prefab
+- Assets/Lowpoly Style/Tropical Islands/Prefabs/Palm1Far.prefab
+Dependencies:
+- D:/Git/CapstoneProject/GhostHands/asl-game/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/Git/CapstoneProject/GhostHands/asl-game/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- D:/Git/CapstoneProject/GhostHands/asl-game/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- D:/Git/CapstoneProject/GhostHands/asl-game/OVRAssetBundles/OVRMasterBundle/asset_mat0
