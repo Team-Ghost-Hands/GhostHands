@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BoardVisualizer : MonoBehaviour
 {
-    public Material rock, scissors, paper;
+    public Material LetterA, LetterB, LetterC, LetterD;
 
     private Renderer rend;
     private void Start()
@@ -12,19 +12,24 @@ public class BoardVisualizer : MonoBehaviour
         rend = GetComponent<Renderer>();
     }
 
-    public void ShowRock()
+    public void ShowLetterA()
     {
-        rend.sharedMaterial = rock;
+        rend.sharedMaterial = LetterA;
     }
 
-    public void ShowScissors()
+    public void ShowLetterB()
     {
-        rend.sharedMaterial = scissors;
-    }
-
-    public void ShowPaper()
-    {
-        rend.sharedMaterial = paper;
+        rend.sharedMaterial = LetterB;
 
     }
+
+    public void ShowLetterC()
+    {
+        rend.sharedMaterial = LetterC;
+    }
+
+    public void ShowLetterD()
+    {
+        rend.sharedMaterial = LetterD;
+    } 
 }
