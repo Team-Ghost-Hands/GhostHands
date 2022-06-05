@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BoardVisualizer : MonoBehaviour
 {
-    public Material LetterA, LetterB, LetterC, LetterD;
+    public Material LetterA, LetterB, LetterC, LetterD, LetterE, LetterF, LetterG, LetterH;
 
     private Renderer rend;
     private void Start()
@@ -31,5 +31,25 @@ public class BoardVisualizer : MonoBehaviour
     public void ShowLetterD()
     {
         rend.sharedMaterial = LetterD;
+    } 
+
+    public void ShowLetterE()
+    {
+        rend.sharedMaterial = LetterE;
+    } 
+
+    public void ShowLetterF()
+    {
+        rend.sharedMaterial = LetterF;
+    } 
+
+    public void ShowLetterG()
+    {
+        rend.sharedMaterial = LetterG;
+    } 
+
+    public void ShowLetterH()
+    {
+        rend.sharedMaterial = LetterH;
     } 
 }
