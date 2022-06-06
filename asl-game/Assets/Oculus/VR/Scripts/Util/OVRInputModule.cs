@@ -608,7 +608,7 @@ namespace UnityEngine.EventSystems
             OVRPointerEventData leftData;
             GetPointerData(kMouseLeftId, out leftData, true );
             leftData.Reset();
-
+            
             //Now set the world space ray. This ray is what the user uses to point at UI elements
             leftData.worldSpaceRay = new Ray(rayTransform.position, rayTransform.forward);
             leftData.scrollDelta = GetExtraScrollDelta();

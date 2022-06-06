@@ -27,7 +27,7 @@ public class HandedInputSelector : MonoBehaviour
 
     void Update()
     {
-        if(OVRInput.GetActiveController() == OVRInput.Controller.LTouch)
+        if(OVRInput.GetActiveController() == OVRInput.Controller.LHand)
         {
             SetActiveController(OVRInput.Controller.LTouch);
         }
